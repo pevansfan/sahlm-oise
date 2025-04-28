@@ -8,8 +8,8 @@ Pour tester l'application facilement sur votre appareil mobile, suivez ces étap
 
 1. **Cloner le projet :**
    ```bash
-   git clone https://github.com/votre-utilisateur/nom-du-depot.git
-   cd nom-du-depot
+   git clone https://github.com/pevansfan/sahlm-oise.git
+   cd sahlm-oise
    ```
 
 2. **Installer les dépendances :**
