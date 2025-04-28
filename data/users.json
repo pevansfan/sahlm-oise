@@ -1,0 +1,11 @@
+[
+    {
+        "verified": true,
+        "firstName": "Jean",
+        "lastName": "Dupont",
+        "phone": "0612345678",
+        "email": "jean@example.com",
+        "password": "test1234",
+        "verification_code": ""
+    }
+]
